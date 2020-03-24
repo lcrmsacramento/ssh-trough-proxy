@@ -13,7 +13,7 @@ Using an alias:
 ```
 jump alias
 ```
-Using an ad-hoc (not explicitly specified) IP:
+Using an ad-hoc (not explicitly specified) IP or hostname:
 ```
 jump 1.23.45.67
 ```
